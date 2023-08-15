@@ -4,6 +4,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+###### Made in 2020
+
 This Python project implements a flower image classifier using a neural network built with TensorFlow. The goal of this project is to classify images of different types of flowers into categories such as Gerbera, Iris, Lilac, Orchid, Daisy, Dandelion, Jonquil, Rose, Tulip, and Sunflower.
 
 ## Neural Network Architecture
