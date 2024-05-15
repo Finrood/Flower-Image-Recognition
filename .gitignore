@@ -1,5 +1,10 @@
 .git
-logs
-models
-Datasets
+venv/
+.idea/
+logs/
+models/
+Datasets/
 Datasets.zip
+test_flowers/
+pickles/
+best_model.keras
